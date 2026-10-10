@@ -21,7 +21,7 @@ View your app in AI Studio: https://ai.studio/apps/73051f9d-7f6c-4db7-bd04-a54f1
    ABOUT PROJECT
    # ICAI Practice Examination Portal
 
-The **ICAI Practice Examination Portal** is a web-based platform designed to help students prepare for examinations conducted by the Institute of Chartered Accountants of India (ICAI). It provides a digital environment where students can practice exam-style questions, take mock tests, evaluate their performance, and improve their exam readiness.
+The **ICAI Practice Examination Portal** is a web-based platform designed to help students prepare for examinations conducted by the Institute of Chartered Accountants of India (ICAI). It provides a digital environment where students can practice exam-style questions, take mock tests, evaluate their performance, and improve their exam readiness
 
 The portal aims to offer a user-friendly interface for accessing practice examinations, tracking scores, reviewing answers, and identifying areas that require improvement. It can include features such as student registration and login, subject-wise tests, timed examinations, automated evaluation for objective questions, result analysis, and an administrative dashboard for managing questions and examinations.
 
